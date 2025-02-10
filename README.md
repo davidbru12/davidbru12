@@ -1,3 +1,27 @@
-¡Hola! Soy David Bru Bravo
+# 💻 ¡Hola, soy David Bru Bravo! 👋
 
-Bienvenido a mi perfil de GitHub. Soy un desarrollador apasionado por la programación y el aprendizaje continuo.
+### 🌐 Sobre mí
+Soy un estudiante apasionado en la **Programación de Aplicaciones Web** con interés en el desarrollo frontend, backend y tecnologías modernas para la web. Siempre estoy aprendiendo nuevas herramientas y mejorando mis habilidades para construir aplicaciones eficientes y atractivas.
+
+### 🛠️ Tecnologías y Herramientas
+- 🌎 **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
+- ⚙️ **Backend:** Node.js, Express, PHP
+- 🛢️ **Base de Datos:** MySQL, MongoDB
+- 🔧 **Otras herramientas:** Git, GitHub, Firebase, Docker
+
+### 📚 Actualmente Especializandome
+- JavaScript
+- PHP
+- Pruebas automatizadas con Jest y Cypress
+
+### 🚀 Proyectos Destacados
+1. **SistemaDeRegistro(https://github.com/davidbru12/SistemaDeRegistro)** 
+2. **IntercambioMonedas(https://github.com/davidbru12/IntercambioMonedas)**
+
+### 📫 Conéctate conmigo
+- 📧 Email: (mailto:bru.david.bravo@gmail.com)
+- 🔗 LinkedIn: [[linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)](https://www.linkedin.com/)
+
+
+✨ ¡Gracias por visitar mi perfil! Siempre estoy abierto a colaborar en nuevos proyectos y aprender más. 🚀
+
