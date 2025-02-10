@@ -19,9 +19,8 @@ Soy un estudiante apasionado en la **Programación de Aplicaciones Web** con int
 2. **IntercambioMonedas(https://github.com/davidbru12/IntercambioMonedas)**
 
 ### 📫 Conéctate conmigo
-- 📧 Email: (mailto:bru.david.bravo@gmail.com)
-- 🔗 LinkedIn: [[linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)](https://www.linkedin.com/)
-
+- 📧 Email: (bru.david.bravo@gmail.com)
+- 🔗 LinkedIn: https://www.linkedin.com/in/david-brubravo-936314348/
 
 ✨ ¡Gracias por visitar mi perfil! Siempre estoy abierto a colaborar en nuevos proyectos y aprender más. 🚀
 
