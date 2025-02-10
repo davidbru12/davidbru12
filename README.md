@@ -15,11 +15,11 @@ Soy un estudiante apasionado en la **Programación de Aplicaciones Web** con int
 - Pruebas automatizadas con Jest y Cypress
 
 ### 🚀 Proyectos Destacados
-1. **SistemaDeRegistro(https://github.com/davidbru12/SistemaDeRegistro)** 
-2. **IntercambioMonedas(https://github.com/davidbru12/IntercambioMonedas)**
+1. **SistemaDeRegistro (https://github.com/davidbru12/SistemaDeRegistro)** 
+2. **IntercambioMonedas (https://github.com/davidbru12/IntercambioMonedas)**
 
 ### 📫 Conéctate conmigo
-- 📧 Email: (bru.david.bravo@gmail.com)
+- 📧 Email: bru.david.bravo@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/david-brubravo-936314348/
 
 ✨ ¡Gracias por visitar mi perfil! Siempre estoy abierto a colaborar en nuevos proyectos y aprender más. 🚀
