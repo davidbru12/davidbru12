@@ -20,7 +20,7 @@ Soy un estudiante apasionado en la **Programación de Aplicaciones Web** con int
 
 ### 📫 Conéctate conmigo
 - 📧 Email: bru.david.bravo@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/david-brubravo-936314348/
+- 🔗 LinkedIn: https://www.linkedin.com/in/david-bru-bravo/
 
 ✨ ¡Gracias por visitar mi perfil! Siempre estoy abierto a colaborar en nuevos proyectos y aprender más. 🚀
 
